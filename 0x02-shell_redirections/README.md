@@ -4,3 +4,4 @@ This third one display etc/password?
 This fourth can work of two important file
 To read last 10 lines
 This fifth line can head 10line
+The 6th line is just for 3
