@@ -5,3 +5,4 @@ This fourth can work of two important file
 To read last 10 lines
 This fifth line can head 10line
 The 6th line is just for 3
+this 7th requires alot of special characters
