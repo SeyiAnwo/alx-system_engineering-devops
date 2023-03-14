@@ -8,3 +8,4 @@ The 6th line is just for 3
 this 7th requires alot of special characters
 Can we move forward
 This should be fast now
+Absolute redirection
